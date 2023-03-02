@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     font-family: Helvetica;
-    color: #060606;
+    color: #340a45;
     box-sizing: border-box;
 }
 
@@ -14,6 +14,11 @@ body {
     background-image: url(../img/pexels-carolina-roepers-600635.jpg);
     background-position: center;
     background-size: cover;
+}
+
+p, h4, h1 {
+    text-shadow: 3px 0.5px  #0b0a0b82;
+    color: #fff;
 }
 
 button {
